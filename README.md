@@ -1,6 +1,6 @@
 # VSSS_League
 
-Project developed by:
+Project developed by Boitatech Team:
 - Henrique José de Souza
 - Jadir Pires de Borba Junior
 - José Augusto Cenci Castilho
